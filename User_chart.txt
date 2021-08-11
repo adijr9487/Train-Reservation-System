@@ -1,0 +1,28 @@
+-user_id,train_no,class_name,date_of_journey,status,no_of_seat|
+name,dob,age,gender|
+name,dob,age,gender|
+-278161152,199000,CC,20 20 2020,Active,1|
+Bill Gates,20 20 1956,65,M|
+-278161152,201232,AC,10 10 2020,Active,1|
+Melinda Gates,20 20 1969,54,F|
+-1372165888,321479,AC2,31 11 2020,Active,1|
+Aditya,10 10 2001,19,M|
+-1372165888,321479,AC2,31 11 2020,Active,1|
+Sarthak,10 10 2002,18,M|
+Aman,10 10 2002,18,M|
+-917768704,456789,CC,10 10 2020,Active,2|
+Aditya,04 10 2001,19,M|
+Sarthak,19 10 2001,19,M|
+-1372165888,20202020,AC1,10 30 2000,Active,2|
+Aditya,10 10 1000,18,M|
+Ashutosh,10 10 2010,10,M|
+-1067841536,321479,AC2,18 11 2020,Active,2|
+Aditya,10 10 2001,19,M|
+Sarthak,10 10 2001,19,M|
+-1067841536,1234123,AC2,10 10 2001,Active,3|
+Aditya,10 10 2001,19,M|
+Sarthak ,19 12 2001,19,M|
+Aman,10 10 2001,19,M|
+-1372165888,20202020,K3,10 10 2020,Active,2|
+Aditya,20 20 2000,19,M|
+Sarthak,20 20 1981,20,M|
