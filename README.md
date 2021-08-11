@@ -7,7 +7,7 @@ type following command
 ```
 git clone https://github.com/adijr9487/Train-Reservation-System.git
 ```
-go to the main folder
+go to the main folder by typing
 ```
 cd Train-Reservation-System
 ```
