@@ -1,2 +1,2 @@
-# TRS-2
-2nd git repo
+# Train Reservation System
+Terminal based app
